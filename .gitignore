@@ -18,6 +18,7 @@ frontend/public/cesium/
 
 # Local runtime / agent state
 .capture/
+.playwright-cli/
 backend/data/*.db
 backend/data/*.sqlite
 backend/data/*.sqlite3
